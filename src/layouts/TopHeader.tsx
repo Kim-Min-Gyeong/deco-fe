@@ -1,4 +1,4 @@
-import DeCoLogo from "../assets/DeCo_logo.png";
+import DeCoLogo from "@/assets/DeCo_logo.png";
 
 export default function TopHeader() {
   return (

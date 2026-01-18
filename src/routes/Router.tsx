@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import DefaultLayout from "../layouts/DefaultLayout";
-import Home from "../pages/Home";
-import Login from "../pages/Login";
+import DefaultLayout from "@/layouts/DefaultLayout";
+import Home from "@/pages/Home";
+import Login from "@/pages/Login";
 
 const Router = () => {
   return (
