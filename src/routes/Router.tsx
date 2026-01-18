@@ -10,7 +10,7 @@ const Router = () => {
         {/* DefaultLayout 적용 */}
         <Route element={<DefaultLayout />}>
           <Route path="/" element={<Home />} />
-        </Route>
+        </Route> 
 
         {/* DefaultLayout 미적용 */}
         <Route path="/login" element={<Login />} />
